@@ -75,14 +75,14 @@ Overall Analysis of the Dashboard
 
 The “Superstore Sales Dashboard”, and the 14 Days Forecast dashboard provides a holistic view of as to how this documentation will support in forecast sales performance.
 
-Sales Checkout — It shows the distribution of sales across categories and sub-categories, both in bar graph as well pie charts. E.g.,  1.6 M in total revenue with substantial individual contributions from different Yaotels or product segments This guide will illustrate top markets and subpar zones.
+Sales Checkout : It shows the distribution of sales across categories and sub-categories, both in bar graph as well pie charts. E.g.,  1.6 M in total revenue with substantial individual contributions from different Yaotels or product segments This guide will illustrate top markets and subpar zones.
 
 Profit Analysis: Stacked bar and line charts displaying trends in profits over time. The total profit will be 4M, which refers to the most profitable categories and sub-categories. This provides an in-depth knowledge to share the profits.
 
-Sales Trends – Line Charts will show seasonality and sales trends. The sales quata is placed at $22K, and the pipeline value at $175K so teams can now understand this trend for better planning & strategy. Measure of 
+Sales Trends : Line Charts will show seasonality and sales trends. The sales quata is placed at $22K, and the pipeline value at $175K so teams can now understand this trend for better planning & strategy. Measure of 
 
-Forecast Accuracy: This helps in measuring the accuracy level of past sales forecast against actual sales data. High variability is observed in the daily sales data which also shows areas that might require some tweaks to forecasts. 
+Forecast Accuracy : This helps in measuring the accuracy level of past sales forecast against actual sales data. High variability is observed in the daily sales data which also shows areas that might require some tweaks to forecasts. 
 
-Decision making support: The dashboard is capable of giving insights which can be used to take the decision in business. Visualizations are useful for driving sales strategies and increasing the bottom line by emphasizing specific measured throughout and trends.
+Decision making support : The dashboard is capable of giving insights which can be used to take the decision in business. Visualizations are useful for driving sales strategies and increasing the bottom line by emphasizing specific measured throughout and trends.
 
  The combined dashboard thereby becomes an effective tool for stakeholders to visualize sales dynamics, react on product performance and take measured actions in order to improve the visibility.
